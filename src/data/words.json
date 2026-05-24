@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "german": "annehmen",
+    "turkish": "kabul etmek, varsaymak",
+    "pronunciation": "AHN-neh-men",
+    "category": "Verb",
+    "example": "Ich nehme deine Einladung an."
+  },
+  {
+    "id": 2,
+    "german": "ablehnen",
+    "turkish": "reddetmek",
+    "pronunciation": "AHP-lay-nen",
+    "category": "Verb",
+    "example": "Er lehnt das Angebot ab."
+  },
+  {
+    "id": 3,
+    "german": "behaupten",
+    "turkish": "iddia etmek",
+    "pronunciation": "beh-HOWP-ten",
+    "category": "Verb",
+    "example": "Sie behauptet, dass sie recht hat."
+  },
+  {
+    "id": 4,
+    "german": "berücksichtigen",
+    "turkish": "dikkate almak",
+    "pronunciation": "beh-RYK-zikh-ti-gen",
+    "category": "Verb",
+    "example": "Wir müssen alle Faktoren berücksichtigen."
+  },
+  {
+    "id": 5,
+    "german": "beitragen",
+    "turkish": "katkıda bulunmak",
+    "pronunciation": "BY-trah-gen",
+    "category": "Verb",
+    "example": "Jeder kann zu diesem Projekt beitragen."
+  },
+  {
+    "id": 6,
+    "german": "empfehlen",
+    "turkish": "önermek",
+    "pronunciation": "em-PFAY-len",
+    "category": "Verb",
+    "example": "Ich empfehle dir diesen Film."
+  },
+  {
+    "id": 7,
+    "german": "erläutern",
+    "turkish": "açıklamak",
+    "pronunciation": "air-LOY-tern",
+    "category": "Verb",
+    "example": "Der Lehrer erläutert die schwierige Aufgabe."
+  },
+  {
+    "id": 8,
+    "german": "erscheinen",
+    "turkish": "görünmek",
+    "pronunciation": "air-SHYNE-en",
+    "category": "Verb",
+    "example": "Das Buch erscheint nächste Woche."
+  },
+  {
+    "id": 9,
+    "german": "erwerben",
+    "turkish": "edinmek",
+    "pronunciation": "air-VAIR-ben",
+    "category": "Verb",
+    "example": "Er erwirbt neue Fähigkeiten."
+  },
+  {
+    "id": 10,
+    "german": "verursachen",
+    "turkish": "sebep olmak",
+    "pronunciation": "fair-OOR-zah-hen",
+    "category": "Verb",
+    "example": "Der Sturm verursacht große Schäden."
+  },
+  {
+    "id": 11,
+    "german": "feststellen",
+    "turkish": "belirlemek, tespit etmek",
+    "pronunciation": "FEST-shtel-en",
+    "category": "Verb",
+    "example": "Ich stelle fest, dass es regnet."
+  },
+  {
+    "id": 12,
+    "german": "fördern",
+    "turkish": "teşvik etmek",
+    "pronunciation": "FÖR-dern",
+    "category": "Verb",
+    "example": "Die Schule fördert talentierte Schüler."
+  },
+  {
+    "id": 13,
+    "german": "gestalten",
+    "turkish": "şekillendirmek",
+    "pronunciation": "geh-SHTAL-ten",
+    "category": "Verb",
+    "example": "Sie gestaltet ihr Leben selbst."
+  },
+  {
+    "id": 14,
+    "german": "hinweisen",
+    "turkish": "işaret etmek",
+    "pronunciation": "HIN-vy-zen",
+    "category": "Verb",
+    "example": "Der Pfeil weist auf den Ausgang hin."
+  },
+  {
+    "id": 15,
+    "german": "schätzen",
+    "turkish": "tahmin etmek, takdir etmek",
+    "pronunciation": "SHETS-en",
+    "category": "Verb",
+    "example": "Ich schätze deine Unterstützung sehr."
+  },
+  {
+    "id": 16,
+    "german": "übertreiben",
+    "turkish": "abartmak",
+    "pronunciation": "Ü-ber-try-ben",
+    "category": "Verb",
+    "example": "Er übertreibt immer seine Geschichten."
+  },
+  {
+    "id": 17,
+    "german": "unterbrechen",
+    "turkish": "sözünü kesmek",
+    "pronunciation": "OON-ter-breh-hen",
+    "category": "Verb",
+    "example": "Bitte unterbrechen Sie mich nicht."
+  },
+  {
+    "id": 18,
+    "german": "unterstützen",
+    "turkish": "desteklemek",
+    "pronunciation": "OON-ter-SHTYT-sen",
+    "category": "Verb",
+    "example": "Ich unterstütze dein Projekt."
+  },
+  {
+    "id": 19,
+    "german": "untersuchen",
+    "turkish": "araştırmak",
+    "pronunciation": "OON-ter-ZOO-hen",
+    "category": "Verb",
+    "example": "Der Arzt untersucht den Patienten."
+  },
+  {
+    "id": 20,
+    "german": "verhalten",
+    "turkish": "davranmak",
+    "pronunciation": "fair-HAHL-ten",
+    "category": "Verb",
+    "example": "Das Kind verhält sich gut."
+  },
+  {
+    "id": 21,
+    "german": "veröffentlichen",
+    "turkish": "yayımlamak",
+    "pronunciation": "fair-Ö-fent-li-hen",
+    "category": "Verb",
+    "example": "Der Autor veröffentlicht ein neues Buch."
+  },
+  {
+    "id": 22,
+    "german": "vermeiden",
+    "turkish": "kaçınmak",
+    "pronunciation": "fair-MY-den",
+    "category": "Verb",
+    "example": "Ich vermeide Stess im Alltag."
+  },
+  {
+    "id": 23,
+    "german": "überzeugen",
+    "turkish": "ikna etmek",
+    "pronunciation": "Ü-ber-TSOYK-en",
+    "category": "Verb",
+    "example": "Ich überzeugte ihn von meiner Idee."
+  },
+  {
+    "id": 24,
+    "german": "widersprechen",
+    "turkish": "çelişmek",
+    "pronunciation": "VI-der-shpreh-hen",
+    "category": "Verb",
+    "example": "Er widerspricht mir nie."
+  },
+  {
+    "id": 25,
+    "german": "zustimmen",
+    "turkish": "katılmak",
+    "pronunciation": "TSOO-shtim-en",
+    "category": "Verb",
+    "example": "Ich stimme deiner Meinung zu."
+  },
+  {
+    "id": 26,
+    "german": "zwingen",
+    "turkish": "zorlamak",
+    "pronunciation": "TSVNG-en",
+    "category": "Verb",
+    "example": "Niemand kann dich zu etwas zwingen."
+  },
+  {
+    "id": 27,
+    "german": "ausgehen",
+    "turkish": "varsaymak",
+    "pronunciation": "OWS-gay-en",
+    "category": "Verb",
+    "example": "Ich gehe davon aus, dass es stimmt."
+  },
+  {
+    "id": 28,
+    "german": "fordern",
+    "turkish": "talep etmek",
+    "pronunciation": "FOR-dern",
+    "category": "Verb",
+    "example": "Der Chef fordert Qualität."
+  },
+  {
+    "id": 29,
+    "german": "begründen",
+    "turkish": "gerekçelendirmek",
+    "pronunciation": "beh-GRYUN-den",
+    "category": "Verb",
+    "example": "Er begründet seine Entscheidung gut."
+  },
+  {
+    "id": 30,
+    "german": "entstehen",
+    "turkish": "ortaya çıkmak",
+    "pronunciation": "ent-SHTAY-en",
+    "category": "Verb",
+    "example": "Ein neues Problem entsteht."
+  },
+  {
+    "id": 31,
+    "german": "bestätigen",
+    "turkish": "onaylamak",
+    "pronunciation": "beh-SHTAY-ti-gen",
+    "category": "Verb",
+    "example": "Der Direktor bestätigt meine Anstellung."
+  },
+  {
+    "id": 32,
+    "german": "betonen",
+    "turkish": "vurgulamak",
+    "pronunciation": "beh-TOH-nen",
+    "category": "Verb",
+    "example": "Der Lehrer betont die Wichtigkeit."
+  },
+  {
+    "id": 33,
+    "german": "einführen",
+    "turkish": "tanıtmak",
+    "pronunciation": "YN-fü-ren",
+    "category": "Verb",
+    "example": "Das Unternehmen führt ein neues Produkt ein."
+  },
+  {
+    "id": 34,
+    "german": "herstellen",
+    "turkish": "üretmek",
+    "pronunciation": "HER-shtel-en",
+    "category": "Verb",
+    "example": "Die Fabrik stellt Autos her."
+  },
+  {
+    "id": 35,
+    "german": "nachweisen",
+    "turkish": "kanıtlamak",
+    "pronunciation": "NAHKH-vy-zen",
+    "category": "Verb",
+    "example": "Der Wissenschaftler weist die Theorie nach."
+  },
+  {
+    "id": 36,
+    "german": "beschäftigen",
+    "turkish": "meşgul olmak",
+    "pronunciation": "beh-SHEF-ti-gen",
+    "category": "Verb",
+    "example": "Die Arbeit beschäftigt mich sehr."
+  },
+  {
+    "id": 37,
+    "german": "verzichten",
+    "turkish": "vazgeçmek",
+    "pronunciation": "fair-TSIKH-ten",
+    "category": "Verb",
+    "example": "Ich verzichte auf Süßes."
+  },
+  {
+    "id": 38,
+    "german": "vergleichen",
+    "turkish": "karşılaştırmak",
+    "pronunciation": "fair-GLY-hen",
+    "category": "Verb",
+    "example": "Vergleiche die beiden Bilder."
+  },
+  {
+    "id": 39,
+    "german": "verletzen",
+    "turkish": "yaralamak",
+    "pronunciation": "fair-LET-sen",
+    "category": "Verb",
+    "example": "Er verletzte sein Knie beim Sport."
+  },
+  {
+    "id": 40,
+    "german": "beleidigen",
+    "turkish": "hakaret etmek",
+    "pronunciation": "beh-LY-di-gen",
+    "category": "Verb",
+    "example": "Seine Worte beleidigen mich."
+  },
+  {
+    "id": 41,
+    "german": "einfallen",
+    "turkish": "aklına gelmek",
+    "pronunciation": "YN-fahl-en",
+    "category": "Verb",
+    "example": "Mir fällt eine gute Idee ein."
+  },
+  {
+    "id": 42,
+    "german": "bemühen",
+    "turkish": "çabalamak",
+    "pronunciation": "beh-MÜ-en",
+    "category": "Verb",
+    "example": "Ich bemühe mich um Verständnis."
+  },
+  {
+    "id": 43,
+    "german": "betreuen",
+    "turkish": "bakmak",
+    "pronunciation": "beh-TROY-en",
+    "category": "Verb",
+    "example": "Die Krankenschwester betreut die Patienten."
+  },
+  {
+    "id": 44,
+    "german": "anfordern",
+    "turkish": "talep etmek",
+    "pronunciation": "AHN-for-dern",
+    "category": "Verb",
+    "example": "Wir fordern die Unterlagen an."
+  },
+  {
+    "id": 45,
+    "german": "nachfragen",
+    "turkish": "sormak",
+    "pronunciation": "NAHKH-frah-gen",
+    "category": "Verb",
+    "example": "Ich frage nach deinem Wohlbefinden nach."
+  },
+  {
+    "id": 46,
+    "german": "bewältigen",
+    "turkish": "üstesinden gelmek",
+    "pronunciation": "beh-VEL-ti-gen",
+    "category": "Verb",
+    "example": "Er bewältigt die Krise gut."
+  },
+  {
+    "id": 47,
+    "german": "abwägen",
+    "turkish": "tartmak",
+    "pronunciation": "AHP-vay-gen",
+    "category": "Verb",
+    "example": "Wir müssen alle Optionen abwägen."
+  },
+  {
+    "id": 48,
+    "german": "widerspiegeln",
+    "turkish": "yansıtmak",
+    "pronunciation": "VI-der-shpee-geln",
+    "category": "Verb",
+    "example": "Die Statistik widerspiegelt die Realität."
+  },
+  {
+    "id": 49,
+    "german": "beeinträchtigen",
+    "turkish": "zarar vermek",
+    "pronunciation": "beh-YN-trayh-ti-gen",
+    "category": "Verb",
+    "example": "Der Lärm beeinträchtigt meine Konzentration."
+  },
+  {
+    "id": 50,
+    "german": "bestreiten",
+    "turkish": "tartışmak",
+    "pronunciation": "beh-SHTRYTE-en",
+    "category": "Verb",
+    "example": "Ich bestreite diese Aussage nicht."
+  },
+  {
+    "id": 51,
+    "german": "verfügen",
+    "turkish": "sahip olmak",
+    "pronunciation": "fair-FÜ-gen",
+    "category": "Verb",
+    "example": "Er verfügt über großes Vermögen."
+  },
+  {
+    "id": 52,
+    "german": "erschweren",
+    "turkish": "zorlaştırmak",
+    "pronunciation": "air-SHVAY-ren",
+    "category": "Verb",
+    "example": "Die Krankheit erschwert sein Leben."
+  },
+  {
+    "id": 53,
+    "german": "darstellen",
+    "turkish": "temsil etmek",
+    "pronunciation": "DAHR-shtel-en",
+    "category": "Verb",
+    "example": "Der Schauspieler stellt einen König dar."
+  },
+  {
+    "id": 54,
+    "german": "pflegen",
+    "turkish": "bakmak",
+    "pronunciation": "PFLAY-gen",
+    "category": "Verb",
+    "example": "Sie pflegt ihre alte Mutter."
+  },
+  {
+    "id": 55,
+    "german": "herausforderung",
+    "turkish": "zorluk",
+    "pronunciation": "hair-OWS-for-de-rung",
+    "category": "Noun",
+    "example": "Das ist eine große Herausforderung."
+  },
+  {
+    "id": 56,
+    "german": "Voraussetzung",
+    "turkish": "şart, koşul",
+    "pronunciation": "FOR-ows-zet-sung",
+    "category": "Noun",
+    "example": "Eine gute Ausbildung ist eine Voraussetzung."
+  },
+  {
+    "id": 57,
+    "german": "Verhalten",
+    "turkish": "davranış",
+    "pronunciation": "fair-HAHL-ten",
+    "category": "Noun",
+    "example": "Sein Verhalten ist merkwürdig."
+  },
+  {
+    "id": 58,
+    "german": "Eindruck",
+    "turkish": "izlenim",
+    "pronunciation": "YN-druk",
+    "category": "Noun",
+    "example": "Sie macht einen guten Eindruck."
+  },
+  {
+    "id": 59,
+    "german": "Beschäftigung",
+    "turkish": "uğraş",
+    "pronunciation": "beh-SHEF-ti-gung",
+    "category": "Noun",
+    "example": "Sein Beschäftigung ist Informatik."
+  },
+  {
+    "id": 60,
+    "german": "Zusammenhang",
+    "turkish": "bağlantı",
+    "pronunciation": "tsoo-ZAHM-en-hahng",
+    "category": "Noun",
+    "example": "Es gibt einen Zusammenhang."
+  },
+  {
+    "id": 61,
+    "german": "Fähigkeit",
+    "turkish": "yetenek",
+    "pronunciation": "FAY-hig-kyt",
+    "category": "Noun",
+    "example": "Er hat eine große Fähigkeit zum Lernen."
+  },
+  {
+    "id": 62,
+    "german": "Maßnahme",
+    "turkish": "önlem",
+    "pronunciation": "MAHS-nah-meh",
+    "category": "Noun",
+    "example": "Wir ergreifen Maßnahmen gegen die Krise."
+  },
+  {
+    "id": 63,
+    "german": "Auswirkung",
+    "turkish": "etki",
+    "pronunciation": "OWS-vir-kung",
+    "category": "Noun",
+    "example": "Die Auswirkung ist positiv."
+  },
+  {
+    "id": 64,
+    "german": "Bereich",
+    "turkish": "alan",
+    "pronunciation": "beh-RIKH",
+    "category": "Noun",
+    "example": "Er arbeitet im Bereich der Medizin."
+  },
+  {
+    "id": 65,
+    "german": "Ergebnis",
+    "turkish": "sonuç",
+    "pronunciation": "air-GAY-nis",
+    "category": "Noun",
+    "example": "Das Ergebnis war überraschend."
+  },
+  {
+    "id": 66,
+    "german": "Unterstützung",
+    "turkish": "destek",
+    "pronunciation": "OON-ter-SHTYT-sung",
+    "category": "Noun",
+    "example": "Danke für deine Unterstützung."
+  },
+  {
+    "id": 67,
+    "german": "Gewalt",
+    "turkish": "şiddet",
+    "pronunciation": "geh-VAHLT",
+    "category": "Noun",
+    "example": "Gewalt ist keine Lösung."
+  },
+  {
+    "id": 68,
+    "german": "Verbraucher",
+    "turkish": "tüketici",
+    "pronunciation": "fair-BROW-her",
+    "category": "Noun",
+    "example": "Der Verbraucher kauft Produkte."
+  },
+  {
+    "id": 69,
+    "german": "Beziehung",
+    "turkish": "ilişki",
+    "pronunciation": "beh-TSIEH-hung",
+    "category": "Noun",
+    "example": "Unsere Beziehung ist wichtig."
+  },
+  {
+    "id": 70,
+    "german": "Beitrag",
+    "turkish": "katkı",
+    "pronunciation": "BY-trahg",
+    "category": "Noun",
+    "example": "Sein Beitrag war wertvoll."
+  },
+  {
+    "id": 71,
+    "german": "Verlust",
+    "turkish": "kayıp",
+    "pronunciation": "fair-LOOST",
+    "category": "Noun",
+    "example": "Der Verlust ist schmerzhaft."
+  },
+  {
+    "id": 72,
+    "german": "Forschung",
+    "turkish": "araştırma",
+    "pronunciation": "FOR-shung",
+    "category": "Noun",
+    "example": "Die Forschung schreitet voran."
+  },
+  {
+    "id": 73,
+    "german": "Gesellschaft",
+    "turkish": "toplum",
+    "pronunciation": "geh-ZEL-shaft",
+    "category": "Noun",
+    "example": "Die Gesellschaft verändert sich."
+  },
+  {
+    "id": 74,
+    "german": "Verantwortung",
+    "turkish": "sorumluluk",
+    "pronunciation": "fair-AHNT-vor-tung",
+    "category": "Noun",
+    "example": "Die Verantwortung ist groß."
+  },
+  {
+    "id": 75,
+    "german": "Wettbewerb",
+    "turkish": "rekabet",
+    "pronunciation": "VET-beh-verp",
+    "category": "Noun",
+    "example": "Der Wettbewerb ist hart."
+  },
+  {
+    "id": 76,
+    "german": "Gesetz",
+    "turkish": "yasa",
+    "pronunciation": "geh-ZETS",
+    "category": "Noun",
+    "example": "Das Gesetz muss befolgt werden."
+  },
+  {
+    "id": 77,
+    "german": "Tatsache",
+    "turkish": "gerçek",
+    "pronunciation": "TAHT-zah-heh",
+    "category": "Noun",
+    "example": "Das ist eine bekannte Tatsache."
+  },
+  {
+    "id": 78,
+    "german": "Möglichkeit",
+    "turkish": "olasılık",
+    "pronunciation": "MÖG-lih-kyt",
+    "category": "Noun",
+    "example": "Es gibt viele Möglichkeiten."
+  },
+  {
+    "id": 79,
+    "german": "Einfluss",
+    "turkish": "etki",
+    "pronunciation": "YN-floos",
+    "category": "Noun",
+    "example": "Er hat großen Einfluss."
+  },
+  {
+    "id": 80,
+    "german": "Entwicklung",
+    "turkish": "gelişme",
+    "pronunciation": "ent-VIK-lung",
+    "category": "Noun",
+    "example": "Die Entwicklung ist positiv."
+  },
+  {
+    "id": 81,
+    "german": "Bevölkerung",
+    "turkish": "nüfus",
+    "pronunciation": "beh-FÖL-keh-rung",
+    "category": "Noun",
+    "example": "Die Bevölkerung wächst."
+  },
+  {
+    "id": 82,
+    "german": "Entscheidung",
+    "turkish": "karar",
+    "pronunciation": "ent-SHNY-dung",
+    "category": "Noun",
+    "example": "Die Entscheidung war schwierig."
+  },
+  {
+    "id": 83,
+    "german": "Herkunft",
+    "turkish": "köken",
+    "pronunciation": "HER-kunft",
+    "category": "Noun",
+    "example": "Woher ist deine Herkunft?"
+  },
+  {
+    "id": 84,
+    "german": "Veränderung",
+    "turkish": "değişiklik",
+    "pronunciation": "fair-EN-de-rung",
+    "category": "Noun",
+    "example": "Die Veränderung ist notwendig."
+  },
+  {
+    "id": 85,
+    "german": "Fortschritt",
+    "turkish": "ilerleme",
+    "pronunciation": "FORT-shrit",
+    "category": "Noun",
+    "example": "Wir machen gute Fortschritte."
+  },
+  {
+    "id": 86,
+    "german": "Umgebung",
+    "turkish": "çevre",
+    "pronunciation": "UM-geh-bung",
+    "category": "Noun",
+    "example": "Die Umgebung ist schön."
+  },
+  {
+    "id": 87,
+    "german": "Zugang",
+    "turkish": "erişim",
+    "pronunciation": "TSOO-gahng",
+    "category": "Noun",
+    "example": "Der Zugang ist frei."
+  },
+  {
+    "id": 88,
+    "german": "Verhältnis",
+    "turkish": "ilişki, oran",
+    "pronunciation": "fair-HELT-nis",
+    "category": "Noun",
+    "example": "Das Verhältnis ist kompliziert."
+  },
+  {
+    "id": 89,
+    "german": "Aussage",
+    "turkish": "ifade",
+    "pronunciation": "OWS-zah-geh",
+    "category": "Noun",
+    "example": "Seine Aussage ist wichtig."
+  },
+  {
+    "id": 90,
+    "german": "Bewusstsein",
+    "turkish": "farkındalık",
+    "pronunciation": "beh-VOOST-zyn",
+    "category": "Noun",
+    "example": "Das Bewusstsein wächst."
+  },
+  {
+    "id": 91,
+    "german": "Vertrag",
+    "turkish": "sözleşme",
+    "pronunciation": "fair-TRAHG",
+    "category": "Noun",
+    "example": "Der Vertrag ist gültig."
+  },
+  {
+    "id": 92,
+    "german": "Wirtschaft",
+    "turkish": "ekonomi",
+    "pronunciation": "VIRT-shaft",
+    "category": "Noun",
+    "example": "Die Wirtschaft wächst."
+  },
+  {
+    "id": 93,
+    "german": "Bedeutung",
+    "turkish": "anlam",
+    "pronunciation": "beh-DOYT-ung",
+    "category": "Noun",
+    "example": "Die Bedeutung ist klar."
+  },
+  {
+    "id": 94,
+    "german": "Sicherheit",
+    "turkish": "güvenlik",
+    "pronunciation": "ZI-her-hyt",
+    "category": "Noun",
+    "example": "Die Sicherheit ist wichtig."
+  },
+  {
+    "id": 95,
+    "german": "Ziel",
+    "turkish": "hedef",
+    "pronunciation": "TSEEL",
+    "category": "Noun",
+    "example": "Mein Ziel ist klar."
+  },
+  {
+    "id": 96,
+    "german": "wesentlich",
+    "turkish": "esas, önemli",
+    "pronunciation": "VAY-zen-tlikh",
+    "category": "Adjective",
+    "example": "Das ist ein wesentlicher Punkt."
+  },
+  {
+    "id": 97,
+    "german": "hauptsächlich",
+    "turkish": "başlıca",
+    "pronunciation": "HOWPT-zekh-likh",
+    "category": "Adjective",
+    "example": "Es ist hauptsächlich eine Frage."
+  },
+  {
+    "id": 98,
+    "german": "gegenseitig",
+    "turkish": "karşılıklı",
+    "pronunciation": "geh-GEN-zy-tikh",
+    "category": "Adjective",
+    "example": "Gegenseitige Unterstützung ist wichtig."
+  },
+  {
+    "id": 99,
+    "german": "zuverlässig",
+    "turkish": "güvenilir",
+    "pronunciation": "tsoo-fair-LES-sikh",
+    "category": "Adjective",
+    "example": "Er ist eine zuverlässige Person."
+  },
+  {
+    "id": 100,
+    "german": "verfügbar",
+    "turkish": "mevcut",
+    "pronunciation": "fair-FÜ-bahr",
+    "category": "Adjective",
+    "example": "Die Ressourcen sind verfügbar."
+  },
+  {
+    "id": 101,
+    "german": "anspruchsvoll",
+    "turkish": "talepkâr",
+    "pronunciation": "AHN-shprooks-fol",
+    "category": "Adjective",
+    "example": "Das ist eine anspruchsvolle Aufgabe."
+  },
+  {
+    "id": 102,
+    "german": "geeignet",
+    "turkish": "uygun",
+    "pronunciation": "geh-YG-net",
+    "category": "Adjective",
+    "example": "Das ist nicht geeignet."
+  },
+  {
+    "id": 103,
+    "german": "unabhängig",
+    "turkish": "bağımsız",
+    "pronunciation": "OON-ahp-hen-gikh",
+    "category": "Adjective",
+    "example": "Er ist unabhängig."
+  },
+  {
+    "id": 104,
+    "german": "entscheidend",
+    "turkish": "belirleyici",
+    "pronunciation": "ent-SHNY-dent",
+    "category": "Adjective",
+    "example": "Das ist ein entscheidender Moment."
+  },
+  {
+    "id": 105,
+    "german": "dauerhaft",
+    "turkish": "kalıcı",
+    "pronunciation": "DROW-er-haft",
+    "category": "Adjective",
+    "example": "Die Lösung ist dauerhaft."
+  },
+  {
+    "id": 106,
+    "german": "unmittelbar",
+    "turkish": "doğrudan",
+    "pronunciation": "OON-mi-tel-bahr",
+    "category": "Adjective",
+    "example": "Das hat eine unmittelbare Auswirkung."
+  },
+  {
+    "id": 107,
+    "german": "erheblich",
+    "turkish": "önemli",
+    "pronunciation": "air-HAY-blikh",
+    "category": "Adjective",
+    "example": "Das ist ein erhebliches Problem."
+  },
+  {
+    "id": 108,
+    "german": "durchschnittlich",
+    "turkish": "ortalama",
+    "pronunciation": "DOORKH-shnit-likh",
+    "category": "Adjective",
+    "example": "Das Ergebnis ist durchschnittlich."
+  },
+  {
+    "id": 109,
+    "german": "erforderlich",
+    "turkish": "gerekli",
+    "pronunciation": "air-FOR-der-likh",
+    "category": "Adjective",
+    "example": "Das ist erforderlich."
+  },
+  {
+    "id": 110,
+    "german": "individuell",
+    "turkish": "bireysel",
+    "pronunciation": "in-di-vi-DU-el",
+    "category": "Adjective",
+    "example": "Das ist eine individuelle Lösung."
+  },
+  {
+    "id": 111,
+    "german": "bewusst",
+    "turkish": "bilinçli",
+    "pronunciation": "beh-VOOST",
+    "category": "Adjective",
+    "example": "Das war eine bewusste Entscheidung."
+  },
+  {
+    "id": 112,
+    "german": "deutlich",
+    "turkish": "açık",
+    "pronunciation": "DOYT-likh",
+    "category": "Adjective",
+    "example": "Das ist deutlich."
+  },
+  {
+    "id": 113,
+    "german": "vernünftig",
+    "turkish": "mantıklı",
+    "pronunciation": "fair-NÜNF-tikh",
+    "category": "Adjective",
+    "example": "Das ist eine vernünftige Idee."
+  },
+  {
+    "id": 114,
+    "german": "gelegentlich",
+    "turkish": "ara sıra",
+    "pronunciation": "geh-LAY-gen-tlikh",
+    "category": "Adjective",
+    "example": "Das passiert gelegentlich."
+  },
+  {
+    "id": 115,
+    "german": "zuständig",
+    "turkish": "sorumlu",
+    "pronunciation": "TSOO-shten-dikh",
+    "category": "Adjective",
+    "example": "Ich bin zuständig dafür."
+  },
+  {
+    "id": 116,
+    "german": "überlegen",
+    "turkish": "üstün",
+    "pronunciation": "Ü-ber-lay-gen",
+    "category": "Adjective",
+    "example": "Er ist überlegen."
+  },
+  {
+    "id": 117,
+    "german": "fortschrittlich",
+    "turkish": "ilerici",
+    "pronunciation": "FORT-shrit-likh",
+    "category": "Adjective",
+    "example": "Das ist fortschrittlich."
+  },
+  {
+    "id": 118,
+    "german": "zufällig",
+    "turkish": "tesadüfi",
+    "pronunciation": "TSOO-fel-likh",
+    "category": "Adjective",
+    "example": "Das war rein zufällig."
+  },
+  {
+    "id": 119,
+    "german": "freiwillig",
+    "turkish": "gönüllü",
+    "pronunciation": "FRY-vil-likh",
+    "category": "Adjective",
+    "example": "Das war freiwillig."
+  },
+  {
+    "id": 120,
+    "german": "knapp",
+    "turkish": "az, kıt",
+    "pronunciation": "KNAPP",
+    "category": "Adjective",
+    "example": "Die Zeit ist knapp."
+  },
+  {
+    "id": 121,
+    "german": "ausführlich",
+    "turkish": "ayrıntılı",
+    "pronunciation": "OWS-für-likh",
+    "category": "Adjective",
+    "example": "Das ist eine ausführliche Erklärung."
+  },
+  {
+    "id": 122,
+    "german": "beteiligt",
+    "turkish": "ilgili",
+    "pronunciation": "beh-TY-likt",
+    "category": "Adjective",
+    "example": "Ich bin beteiligt."
+  },
+  {
+    "id": 123,
+    "german": "erfreulich",
+    "turkish": "sevindirici",
+    "pronunciation": "air-FROY-likh",
+    "category": "Adjective",
+    "example": "Das ist erfreulich."
+  },
+  {
+    "id": 124,
+    "german": "gewöhnlich",
+    "turkish": "normal",
+    "pronunciation": "geh-VÖN-likh",
+    "category": "Adjective",
+    "example": "Das ist gewöhnlich."
+  },
+  {
+    "id": 125,
+    "german": "entfernt",
+    "turkish": "uzak",
+    "pronunciation": "ent-FERNT",
+    "category": "Adjective",
+    "example": "Das ist nicht weit entfernt."
+  },
+  {
+    "id": 126,
+    "german": "anerkannt",
+    "turkish": "tanınmış",
+    "pronunciation": "AHN-er-kahnt",
+    "category": "Adjective",
+    "example": "Er ist ein anerkannter Experte."
+  },
+  {
+    "id": 127,
+    "german": "erfolgreich",
+    "turkish": "başarılı",
+    "pronunciation": "air-FOLK-rykh",
+    "category": "Adjective",
+    "example": "Das Projekt war erfolgreich."
+  },
+  {
+    "id": 128,
+    "german": "kritisch",
+    "turkish": "eleştirel",
+    "pronunciation": "KRI-tish",
+    "category": "Adjective",
+    "example": "Das ist eine kritische Phase."
+  },
+  {
+    "id": 129,
+    "german": "schädlich",
+    "turkish": "zararlı",
+    "pronunciation": "SHET-likh",
+    "category": "Adjective",
+    "example": "Das ist schädlich."
+  },
+  {
+    "id": 130,
+    "german": "nützlich",
+    "turkish": "yararlı",
+    "pronunciation": "NÜTS-likh",
+    "category": "Adjective",
+    "example": "Das ist sehr nützlich."
+  },
+  {
+    "id": 131,
+    "german": "problematisch",
+    "turkish": "sorunlu",
+    "pronunciation": "pro-bleh-MAH-tish",
+    "category": "Adjective",
+    "example": "Das ist problematisch."
+  },
+  {
+    "id": 132,
+    "german": "wirksam",
+    "turkish": "etkili",
+    "pronunciation": "VERK-zahm",
+    "category": "Adjective",
+    "example": "Das ist eine wirksame Methode."
+  },
+  {
+    "id": 133,
+    "german": "selten",
+    "turkish": "nadir",
+    "pronunciation": "ZEL-ten",
+    "category": "Adjective",
+    "example": "Das ist selten."
+  },
+  {
+    "id": 134,
+    "german": "häufig",
+    "turkish": "sık",
+    "pronunciation": "HOY-fikh",
+    "category": "Adjective",
+    "example": "Das passiert häufig."
+  },
+  {
+    "id": 135,
+    "german": "zwingend",
+    "turkish": "zorunlu",
+    "pronunciation": "TSVNG-ent",
+    "category": "Adjective",
+    "example": "Das ist zwingend notwendig."
+  },
+  {
+    "id": 136,
+    "german": "vielversprechend",
+    "turkish": "umut verici",
+    "pronunciation": "FEEL-fer-shpreh-hent",
+    "category": "Adjective",
+    "example": "Das ist vielversprechend."
+  },
+  {
+    "id": 137,
+    "german": "irreführend",
+    "turkish": "yanıltıcı",
+    "pronunciation": "i-reh-FÜ-rent",
+    "category": "Adjective",
+    "example": "Das ist irreführend."
+  },
+  {
+    "id": 138,
+    "german": "gleichzeitig",
+    "turkish": "aynı zamanda",
+    "pronunciation": "GLYKHTS-tsy-tikh",
+    "category": "Adjective",
+    "example": "Das passiert gleichzeitig."
+  },
+  {
+    "id": 139,
+    "german": "umstritten",
+    "turkish": "tartışmalı",
+    "pronunciation": "UM-shtriten",
+    "category": "Adjective",
+    "example": "Das ist umstritten."
+  },
+  {
+    "id": 140,
+    "german": "widersprüchlich",
+    "turkish": "çelişkili",
+    "pronunciation": "VI-der-shprük-likh",
+    "category": "Adjective",
+    "example": "Das ist widersprüchlich."
+  },
+  {
+    "id": 141,
+    "german": "schreiben",
+    "turkish": "yazmak",
+    "pronunciation": "SHRY-ben",
+    "category": "Verb",
+    "example": "Ich schreibe einen Brief."
+  },
+  {
+    "id": 142,
+    "german": "lesen",
+    "turkish": "okumak",
+    "pronunciation": "LAY-zen",
+    "category": "Verb",
+    "example": "Ich lese ein Buch."
+  },
+  {
+    "id": 143,
+    "german": "sprechen",
+    "turkish": "konuşmak",
+    "pronunciation": "SHPREH-hen",
+    "category": "Verb",
+    "example": "Ich spreche Deutsch."
+  },
+  {
+    "id": 144,
+    "german": "hören",
+    "turkish": "duymak",
+    "pronunciation": "HÖ-ren",
+    "category": "Verb",
+    "example": "Ich höre Musik."
+  },
+  {
+    "id": 145,
+    "german": "verstehen",
+    "turkish": "anlamak",
+    "pronunciation": "fair-SHTAY-en",
+    "category": "Verb",
+    "example": "Ich verstehe dich."
+  },
+  {
+    "id": 146,
+    "german": "gehen",
+    "turkish": "gitmek",
+    "pronunciation": "GAY-en",
+    "category": "Verb",
+    "example": "Ich gehe nach Hause."
+  },
+  {
+    "id": 147,
+    "german": "kommen",
+    "turkish": "gelmek",
+    "pronunciation": "KO-men",
+    "category": "Verb",
+    "example": "Er kommt morgen."
+  },
+  {
+    "id": 148,
+    "german": "machen",
+    "turkish": "yapmak",
+    "pronunciation": "MAH-hen",
+    "category": "Verb",
+    "example": "Ich mache die Hausaufgaben."
+  },
+  {
+    "id": 149,
+    "german": "sehen",
+    "turkish": "görmek",
+    "pronunciation": "ZAY-en",
+    "category": "Verb",
+    "example": "Ich sehe einen Film."
+  },
+  {
+    "id": 150,
+    "german": "geben",
+    "turkish": "vermek",
+    "pronunciation": "GAY-ben",
+    "category": "Verb",
+    "example": "Ich gebe dir ein Geschenk."
+  },
+  {
+    "id": 151,
+    "german": "nehmen",
+    "turkish": "almak",
+    "pronunciation": "NAY-men",
+    "category": "Verb",
+    "example": "Ich nehme den Zucker."
+  },
+  {
+    "id": 152,
+    "german": "bringen",
+    "turkish": "getirmek",
+    "pronunciation": "BRING-en",
+    "category": "Verb",
+    "example": "Ich bringe dir Tee."
+  },
+  {
+    "id": 153,
+    "german": "finden",
+    "turkish": "bulmak",
+    "pronunciation": "FIN-den",
+    "category": "Verb",
+    "example": "Ich finde meinen Schlüssel."
+  },
+  {
+    "id": 154,
+    "german": "wissen",
+    "turkish": "bilmek",
+    "pronunciation": "VIS-sen",
+    "category": "Verb",
+    "example": "Ich weiß die Antwort."
+  },
+  {
+    "id": 155,
+    "german": "denken",
+    "turkish": "düşünmek",
+    "pronunciation": "DENK-en",
+    "category": "Verb",
+    "example": "Ich denke über dich nach."
+  },
+  {
+    "id": 156,
+    "german": "lieben",
+    "turkish": "sevmek",
+    "pronunciation": "LEE-ben",
+    "category": "Verb",
+    "example": "Ich liebe dich."
+  },
+  {
+    "id": 157,
+    "german": "hassen",
+    "turkish": "nefret etmek",
+    "pronunciation": "HAHS-sen",
+    "category": "Verb",
+    "example": "Ich hasse Lügen."
+  },
+  {
+    "id": 158,
+    "german": "mögen",
+    "turkish": "sevmek, hoşlanmak",
+    "pronunciation": "MÖ-gen",
+    "category": "Verb",
+    "example": "Ich mag Schokolade."
+  },
+  {
+    "id": 159,
+    "german": "wünschen",
+    "turkish": "dilemek",
+    "pronunciation": "VÜN-shen",
+    "category": "Verb",
+    "example": "Ich wünsche dir alles Gute."
+  },
+  {
+    "id": 160,
+    "german": "brauchen",
+    "turkish": "ihtiyaç duymak",
+    "pronunciation": "BROW-hen",
+    "category": "Verb",
+    "example": "Ich brauche deine Hilfe."
+  },
+  {
+    "id": 161,
+    "german": "Buch",
+    "turkish": "kitap",
+    "pronunciation": "BOOKH",
+    "category": "Noun",
+    "example": "Das Buch ist interessant."
+  },
+  {
+    "id": 162,
+    "german": "Schule",
+    "turkish": "okul",
+    "pronunciation": "SHOO-leh",
+    "category": "Noun",
+    "example": "Die Schule ist groß."
+  },
+  {
+    "id": 163,
+    "german": "Arbeit",
+    "turkish": "iş",
+    "pronunciation": "AHR-byt",
+    "category": "Noun",
+    "example": "Die Arbeit ist schwer."
+  },
+  {
+    "id": 164,
+    "german": "Freund",
+    "turkish": "arkadaş",
+    "pronunciation": "FRYNT",
+    "category": "Noun",
+    "example": "Mein Freund ist nett."
+  },
+  {
+    "id": 165,
+    "german": "Familie",
+    "turkish": "aile",
+    "pronunciation": "fah-MEE-leh",
+    "category": "Noun",
+    "example": "Meine Familie ist groß."
+  },
+  {
+    "id": 166,
+    "german": "Haus",
+    "turkish": "ev",
+    "pronunciation": "HOWS",
+    "category": "Noun",
+    "example": "Das Haus ist alt."
+  },
+  {
+    "id": 167,
+    "german": "Auto",
+    "turkish": "araba",
+    "pronunciation": "OW-to",
+    "category": "Noun",
+    "example": "Das Auto ist schnell."
+  },
+  {
+    "id": 168,
+    "german": "Tisch",
+    "turkish": "masa",
+    "pronunciation": "TISH",
+    "category": "Noun",
+    "example": "Der Tisch ist aus Holz."
+  },
+  {
+    "id": 169,
+    "german": "Stuhl",
+    "turkish": "sandalye",
+    "pronunciation": "SHTOOL",
+    "category": "Noun",
+    "example": "Der Stuhl ist bequem."
+  },
+  {
+    "id": 170,
+    "german": "Fenster",
+    "turkish": "pencere",
+    "pronunciation": "FEN-ster",
+    "category": "Noun",
+    "example": "Das Fenster ist groß."
+  },
+  {
+    "id": 171,
+    "german": "Tür",
+    "turkish": "kapı",
+    "pronunciation": "TÜR",
+    "category": "Noun",
+    "example": "Die Tür ist offen."
+  },
+  {
+    "id": 172,
+    "german": "Straße",
+    "turkish": "sokak",
+    "pronunciation": "SHTRASS-eh",
+    "category": "Noun",
+    "example": "Die Straße ist lang."
+  },
+  {
+    "id": 173,
+    "german": "Stadt",
+    "turkish": "şehir",
+    "pronunciation": "SHTAHT",
+    "category": "Noun",
+    "example": "Die Stadt ist groß."
+  },
+  {
+    "id": 174,
+    "german": "Land",
+    "turkish": "ülke",
+    "pronunciation": "LAHNT",
+    "category": "Noun",
+    "example": "Das Land ist schön."
+  },
+  {
+    "id": 175,
+    "german": "Berg",
+    "turkish": "dağ",
+    "pronunciation": "BERK",
+    "category": "Noun",
+    "example": "Der Berg ist hoch."
+  },
+  {
+    "id": 176,
+    "german": "Fluss",
+    "turkish": "nehir",
+    "pronunciation": "FLOOS",
+    "category": "Noun",
+    "example": "Der Fluss ist breit."
+  },
+  {
+    "id": 177,
+    "german": "Meer",
+    "turkish": "deniz",
+    "pronunciation": "MAYR",
+    "category": "Noun",
+    "example": "Das Meer ist blau."
+  },
+  {
+    "id": 178,
+    "german": "Wald",
+    "turkish": "orman",
+    "pronunciation": "VAHLT",
+    "category": "Noun",
+    "example": "Der Wald ist grün."
+  },
+  {
+    "id": 179,
+    "german": "Zeit",
+    "turkish": "zaman",
+    "pronunciation": "TSYT",
+    "category": "Noun",
+    "example": "Die Zeit vergeht schnell."
+  },
+  {
+    "id": 180,
+    "german": "Tag",
+    "turkish": "gün",
+    "pronunciation": "TAHG",
+    "category": "Noun",
+    "example": "Der Tag ist sonnig."
+  },
+  {
+    "id": 181,
+    "german": "Nacht",
+    "turkish": "gece",
+    "pronunciation": "NAHKHT",
+    "category": "Noun",
+    "example": "Die Nacht ist dunkel."
+  },
+  {
+    "id": 182,
+    "german": "Morgen",
+    "turkish": "sabah",
+    "pronunciation": "MOR-gen",
+    "category": "Noun",
+    "example": "Der Morgen ist früh."
+  },
+  {
+    "id": 183,
+    "german": "Abend",
+    "turkish": "akşam",
+    "pronunciation": "AH-bent",
+    "category": "Noun",
+    "example": "Der Abend ist schön."
+  },
+  {
+    "id": 184,
+    "german": "Woche",
+    "turkish": "hafta",
+    "pronunciation": "VO-heh",
+    "category": "Noun",
+    "example": "Die Woche hat sieben Tage."
+  },
+  {
+    "id": 185,
+    "german": "Monat",
+    "turkish": "ay",
+    "pronunciation": "MOH-naht",
+    "category": "Noun",
+    "example": "Der Monat hat 30 Tage."
+  },
+  {
+    "id": 186,
+    "german": "Jahr",
+    "turkish": "yıl",
+    "pronunciation": "YAHR",
+    "category": "Noun",
+    "example": "Das Jahr hat 12 Monate."
+  },
+  {
+    "id": 187,
+    "german": "Farbe",
+    "turkish": "renk",
+    "pronunciation": "FAHR-beh",
+    "category": "Noun",
+    "example": "Die Farbe ist rot."
+  },
+  {
+    "id": 188,
+    "german": "Kleidung",
+    "turkish": "giyim",
+    "pronunciation": "KLY-doong",
+    "category": "Noun",
+    "example": "Die Kleidung ist warm."
+  },
+  {
+    "id": 189,
+    "german": "Schuh",
+    "turkish": "ayakkabı",
+    "pronunciation": "SHOO",
+    "category": "Noun",
+    "example": "Der Schuh passt."
+  },
+  {
+    "id": 190,
+    "german": "Hut",
+    "turkish": "şapka",
+    "pronunciation": "HOOT",
+    "category": "Noun",
+    "example": "Der Hut ist schön."
+  },
+  {
+    "id": 191,
+    "german": "Essen",
+    "turkish": "yemek",
+    "pronunciation": "ES-sen",
+    "category": "Noun",
+    "example": "Das Essen ist lecker."
+  },
+  {
+    "id": 192,
+    "german": "Brot",
+    "turkish": "ekmek",
+    "pronunciation": "BROHT",
+    "category": "Noun",
+    "example": "Das Brot ist frisch."
+  },
+  {
+    "id": 193,
+    "german": "Milch",
+    "turkish": "süt",
+    "pronunciation": "MILKH",
+    "category": "Noun",
+    "example": "Die Milch ist kalt."
+  },
+  {
+    "id": 194,
+    "german": "Käse",
+    "turkish": "peynir",
+    "pronunciation": "KAY-zeh",
+    "category": "Noun",
+    "example": "Der Käse ist würzig."
+  },
+  {
+    "id": 195,
+    "german": "Fleisch",
+    "turkish": "et",
+    "pronunciation": "FLYSH",
+    "category": "Noun",
+    "example": "Das Fleisch ist zart."
+  },
+  {
+    "id": 196,
+    "german": "Fisch",
+    "turkish": "balık",
+    "pronunciation": "FISH",
+    "category": "Noun",
+    "example": "Der Fisch ist lecker."
+  },
+  {
+    "id": 197,
+    "german": "Obst",
+    "turkish": "meyve",
+    "pronunciation": "OBST",
+    "category": "Noun",
+    "example": "Das Obst ist süß."
+  },
+  {
+    "id": 198,
+    "german": "Gemüse",
+    "turkish": "sebze",
+    "pronunciation": "geh-MÜ-zeh",
+    "category": "Noun",
+    "example": "Das Gemüse ist frisch."
+  },
+  {
+    "id": 199,
+    "german": "Wasser",
+    "turkish": "su",
+    "pronunciation": "VAHS-ser",
+    "category": "Noun",
+    "example": "Das Wasser ist klar."
+  },
+  {
+    "id": 200,
+    "german": "Saft",
+    "turkish": "meyve suyu",
+    "pronunciation": "ZAHFT",
+    "category": "Noun",
+    "example": "Der Saft ist frisch."
+  },
+  {
+    "id": 201,
+    "german": "Kaffee",
+    "turkish": "kahve",
+    "pronunciation": "kah-FAY",
+    "category": "Noun",
+    "example": "Der Kaffee ist heiß."
+  },
+  {
+    "id": 202,
+    "german": "Tee",
+    "turkish": "çay",
+    "pronunciation": "TAY",
+    "category": "Noun",
+    "example": "Der Tee ist warm."
+  },
+  {
+    "id": 203,
+    "german": "Wein",
+    "turkish": "şarap",
+    "pronunciation": "VYN",
+    "category": "Noun",
+    "example": "Der Wein ist rot."
+  },
+  {
+    "id": 204,
+    "german": "Bier",
+    "turkish": "bira",
+    "pronunciation": "BEER",
+    "category": "Noun",
+    "example": "Das Bier ist kühl."
+  },
+  {
+    "id": 205,
+    "german": "Zucker",
+    "turkish": "şeker",
+    "pronunciation": "TSOO-ker",
+    "category": "Noun",
+    "example": "Der Zucker ist süß."
+  },
+  {
+    "id": 206,
+    "german": "Salz",
+    "turkish": "tuz",
+    "pronunciation": "ZAHLTS",
+    "category": "Noun",
+    "example": "Das Salz ist würzig."
+  },
+  {
+    "id": 207,
+    "german": "Pfeffer",
+    "turkish": "biber",
+    "pronunciation": "PFEF-fer",
+    "category": "Noun",
+    "example": "Der Pfeffer ist scharf."
+  },
+  {
+    "id": 208,
+    "german": "Öl",
+    "turkish": "yağ",
+    "pronunciation": "ÖL",
+    "category": "Noun",
+    "example": "Das Öl ist flüssig."
+  },
+  {
+    "id": 209,
+    "german": "Butter",
+    "turkish": "tereyağ",
+    "pronunciation": "BOO-ter",
+    "category": "Noun",
+    "example": "Die Butter ist gelb."
+  },
+  {
+    "id": 210,
+    "german": "Teller",
+    "turkish": "tabak",
+    "pronunciation": "TEL-er",
+    "category": "Noun",
+    "example": "Der Teller ist leer."
+  },
+  {
+    "id": 211,
+    "german": "Glas",
+    "turkish": "bardak",
+    "pronunciation": "GLAHS",
+    "category": "Noun",
+    "example": "Das Glas ist voll."
+  },
+  {
+    "id": 212,
+    "german": "Messer",
+    "turkish": "bıçak",
+    "pronunciation": "MES-ser",
+    "category": "Noun",
+    "example": "Das Messer ist scharf."
+  },
+  {
+    "id": 213,
+    "german": "Gabel",
+    "turkish": "çatal",
+    "pronunciation": "GAH-bel",
+    "category": "Noun",
+    "example": "Die Gabel ist klein."
+  },
+  {
+    "id": 214,
+    "german": "Löffel",
+    "turkish": "kaşık",
+    "pronunciation": "LÖ-fel",
+    "category": "Noun",
+    "example": "Der Löffel ist groß."
+  },
+  {
+    "id": 215,
+    "german": "Topf",
+    "turkish": "tencere",
+    "pronunciation": "TOPF",
+    "category": "Noun",
+    "example": "Der Topf ist heiß."
+  },
+  {
+    "id": 216,
+    "german": "Pfanne",
+    "turkish": "tavası",
+    "pronunciation": "PFAHN-eh",
+    "category": "Noun",
+    "example": "Die Pfanne ist groß."
+  },
+  {
+    "id": 217,
+    "german": "Küche",
+    "turkish": "mutfak",
+    "pronunciation": "KÜ-heh",
+    "category": "Noun",
+    "example": "Die Küche ist groß."
+  },
+  {
+    "id": 218,
+    "german": "Badezimmer",
+    "turkish": "banyo",
+    "pronunciation": "BAH-deh-tsim-mer",
+    "category": "Noun",
+    "example": "Das Badezimmer ist sauber."
+  },
+  {
+    "id": 219,
+    "german": "Schlafzimmer",
+    "turkish": "yatak odası",
+    "pronunciation": "SHLAHF-tsim-mer",
+    "category": "Noun",
+    "example": "Das Schlafzimmer ist dunkel."
+  },
+  {
+    "id": 220,
+    "german": "Wohnzimmer",
+    "turkish": "oturma odası",
+    "pronunciation": "VOHN-tsim-mer",
+    "category": "Noun",
+    "example": "Das Wohnzimmer ist gemütlich."
+  },
+  {
+    "id": 221,
+    "german": "Kopf",
+    "turkish": "kafa",
+    "pronunciation": "KOPF",
+    "category": "Noun",
+    "example": "Der Kopf tut weh."
+  },
+  {
+    "id": 222,
+    "german": "Herz",
+    "turkish": "kalp",
+    "pronunciation": "HERTS",
+    "category": "Noun",
+    "example": "Das Herz schlägt."
+  },
+  {
+    "id": 223,
+    "german": "Lunge",
+    "turkish": "akciğer",
+    "pronunciation": "LOONG-eh",
+    "category": "Noun",
+    "example": "Die Lunge atmet."
+  },
+  {
+    "id": 224,
+    "german": "Magen",
+    "turkish": "mide",
+    "pronunciation": "MAH-gen",
+    "category": "Noun",
+    "example": "Der Magen verdaut."
+  },
+  {
+    "id": 225,
+    "german": "Auge",
+    "turkish": "göz",
+    "pronunciation": "OW-geh",
+    "category": "Noun",
+    "example": "Das Auge sieht."
+  },
+  {
+    "id": 226,
+    "german": "Ohr",
+    "turkish": "kulak",
+    "pronunciation": "OHR",
+    "category": "Noun",
+    "example": "Das Ohr hört."
+  },
+  {
+    "id": 227,
+    "german": "Nase",
+    "turkish": "burun",
+    "pronunciation": "NAH-zeh",
+    "category": "Noun",
+    "example": "Die Nase riecht."
+  },
+  {
+    "id": 228,
+    "german": "Mund",
+    "turkish": "ağız",
+    "pronunciation": "MOONT",
+    "category": "Noun",
+    "example": "Der Mund spricht."
+  },
+  {
+    "id": 229,
+    "german": "Zahn",
+    "turkish": "diş",
+    "pronunciation": "TSAHN",
+    "category": "Noun",
+    "example": "Der Zahn tut weh."
+  },
+  {
+    "id": 230,
+    "german": "Zunge",
+    "turkish": "dil",
+    "pronunciation": "TSOONG-eh",
+    "category": "Noun",
+    "example": "Die Zunge schmeckt."
+  },
+  {
+    "id": 231,
+    "german": "Hals",
+    "turkish": "boyun",
+    "pronunciation": "HAHLTS",
+    "category": "Noun",
+    "example": "Der Hals tut weh."
+  },
+  {
+    "id": 232,
+    "german": "Schulter",
+    "turkish": "omuz",
+    "pronunciation": "SHOOL-ter",
+    "category": "Noun",
+    "example": "Die Schulter ist stark."
+  },
+  {
+    "id": 233,
+    "german": "Arm",
+    "turkish": "kol",
+    "pronunciation": "AHRM",
+    "category": "Noun",
+    "example": "Der Arm ist lang."
+  },
+  {
+    "id": 234,
+    "german": "Hand",
+    "turkish": "el",
+    "pronunciation": "HAHNT",
+    "category": "Noun",
+    "example": "Die Hand ist klein."
+  },
+  {
+    "id": 235,
+    "german": "Finger",
+    "turkish": "parmak",
+    "pronunciation": "FIN-ger",
+    "category": "Noun",
+    "example": "Der Finger ist dünn."
+  },
+  {
+    "id": 236,
+    "german": "Bein",
+    "turkish": "bacak",
+    "pronunciation": "BYN",
+    "category": "Noun",
+    "example": "Das Bein ist lang."
+  },
+  {
+    "id": 237,
+    "german": "Fuß",
+    "turkish": "ayak",
+    "pronunciation": "FOOS",
+    "category": "Noun",
+    "example": "Der Fuß ist groß."
+  },
+  {
+    "id": 238,
+    "german": "Rücken",
+    "turkish": "sırt",
+    "pronunciation": "RÜ-ken",
+    "category": "Noun",
+    "example": "Der Rücken ist stark."
+  },
+  {
+    "id": 239,
+    "german": "Bauch",
+    "turkish": "karın",
+    "pronunciation": "BOWKH",
+    "category": "Noun",
+    "example": "Der Bauch ist voll."
+  },
+  {
+    "id": 240,
+    "german": "Haut",
+    "turkish": "deri",
+    "pronunciation": "HOWT",
+    "category": "Noun",
+    "example": "Die Haut ist weich."
+  },
+  {
+    "id": 241,
+    "german": "Blut",
+    "turkish": "kan",
+    "pronunciation": "BLOOT",
+    "category": "Noun",
+    "example": "Das Blut ist rot."
+  },
+  {
+    "id": 242,
+    "german": "Knochen",
+    "turkish": "kemik",
+    "pronunciation": "KNOH-hen",
+    "category": "Noun",
+    "example": "Der Knochen ist hart."
+  },
+  {
+    "id": 243,
+    "german": "Muskel",
+    "turkish": "kas",
+    "pronunciation": "MUS-kel",
+    "category": "Noun",
+    "example": "Der Muskel ist stark."
+  },
+  {
+    "id": 244,
+    "german": "Gehirn",
+    "turkish": "beyin",
+    "pronunciation": "geh-HIRN",
+    "category": "Noun",
+    "example": "Das Gehirn denkt."
+  },
+  {
+    "id": 245,
+    "german": "Medizin",
+    "turkish": "ilaç",
+    "pronunciation": "meh-dih-TSEEN",
+    "category": "Noun",
+    "example": "Die Medizin hilft."
+  },
+  {
+    "id": 246,
+    "german": "Arzt",
+    "turkish": "doktor",
+    "pronunciation": "ARTST",
+    "category": "Noun",
+    "example": "Der Arzt ist freundlich."
+  },
+  {
+    "id": 247,
+    "german": "Krankenhaus",
+    "turkish": "hastane",
+    "pronunciation": "KRAHNG-ken-hows",
+    "category": "Noun",
+    "example": "Das Krankenhaus ist groß."
+  },
+  {
+    "id": 248,
+    "german": "Apotheke",
+    "turkish": "eczane",
+    "pronunciation": "ah-poh-TAY-keh",
+    "category": "Noun",
+    "example": "Die Apotheke ist nah."
+  },
+  {
+    "id": 249,
+    "german": "Krankheit",
+    "turkish": "hastalık",
+    "pronunciation": "KRAHNG-kyt",
+    "category": "Noun",
+    "example": "Die Krankheit ist ernst."
+  },
+  {
+    "id": 250,
+    "german": "groß",
+    "turkish": "büyük",
+    "pronunciation": "GROHSS",
+    "category": "Adjective",
+    "example": "Das Haus ist groß."
+  },
+  {
+    "id": 251,
+    "german": "klein",
+    "turkish": "küçük",
+    "pronunciation": "KLYNE",
+    "category": "Adjective",
+    "example": "Das Auto ist klein."
+  },
+  {
+    "id": 252,
+    "german": "alt",
+    "turkish": "yaşlı, eski",
+    "pronunciation": "AHLT",
+    "category": "Adjective",
+    "example": "Der Mann ist alt."
+  },
+  {
+    "id": 253,
+    "german": "jung",
+    "turkish": "genç",
+    "pronunciation": "YOUNG",
+    "category": "Adjective",
+    "example": "Das Kind ist jung."
+  },
+  {
+    "id": 254,
+    "german": "neu",
+    "turkish": "yeni",
+    "pronunciation": "NOY",
+    "category": "Adjective",
+    "example": "Das Buch ist neu."
+  },
+  {
+    "id": 255,
+    "german": "schön",
+    "turkish": "güzel",
+    "pronunciation": "SHÖN",
+    "category": "Adjective",
+    "example": "Das Mädchen ist schön."
+  },
+  {
+    "id": 256,
+    "german": "hässlich",
+    "turkish": "çirkin",
+    "pronunciation": "HES-likh",
+    "category": "Adjective",
+    "example": "Die Farbe ist hässlich."
+  },
+  {
+    "id": 257,
+    "german": "hell",
+    "turkish": "aydınlık",
+    "pronunciation": "HEL",
+    "category": "Adjective",
+    "example": "Das Zimmer ist hell."
+  },
+  {
+    "id": 258,
+    "german": "dunkel",
+    "turkish": "karanlık",
+    "pronunciation": "DOON-kel",
+    "category": "Adjective",
+    "example": "Die Nacht ist dunkel."
+  },
+  {
+    "id": 259,
+    "german": "hell",
+    "turkish": "açık",
+    "pronunciation": "HEL",
+    "category": "Adjective",
+    "example": "Die Farbe ist hell."
+  },
+  {
+    "id": 260,
+    "german": "dunkel",
+    "turkish": "koyu",
+    "pronunciation": "DOON-kel",
+    "category": "Adjective",
+    "example": "Die Farbe ist dunkel."
+  },
+  {
+    "id": 261,
+    "german": "schnell",
+    "turkish": "hızlı",
+    "pronunciation": "SHNELL",
+    "category": "Adjective",
+    "example": "Das Auto ist schnell."
+  },
+  {
+    "id": 262,
+    "german": "langsam",
+    "turkish": "yavaş",
+    "pronunciation": "LAHNG-zahm",
+    "category": "Adjective",
+    "example": "Die Zeit ist langsam."
+  },
+  {
+    "id": 263,
+    "german": "heiß",
+    "turkish": "sıcak",
+    "pronunciation": "HYS",
+    "category": "Adjective",
+    "example": "Das Wasser ist heiß."
+  },
+  {
+    "id": 264,
+    "german": "kalt",
+    "turkish": "soğuk",
+    "pronunciation": "KAHLT",
+    "category": "Adjective",
+    "example": "Das Eis ist kalt."
+  },
+  {
+    "id": 265,
+    "german": "warm",
+    "turkish": "ılık",
+    "pronunciation": "VAHRM",
+    "category": "Adjective",
+    "example": "Das Wasser ist warm."
+  },
+  {
+    "id": 266,
+    "german": "lang",
+    "turkish": "uzun",
+    "pronunciation": "LAHNG",
+    "category": "Adjective",
+    "example": "Der Fluss ist lang."
+  },
+  {
+    "id": 267,
+    "german": "kurz",
+    "turkish": "kısa",
+    "pronunciation": "KOORS",
+    "category": "Adjective",
+    "example": "Der Tag ist kurz."
+  },
+  {
+    "id": 268,
+    "german": "breit",
+    "turkish": "geniş",
+    "pronunciation": "BRYT",
+    "category": "Adjective",
+    "example": "Die Straße ist breit."
+  },
+  {
+    "id": 269,
+    "german": "eng",
+    "turkish": "dar",
+    "pronunciation": "ENG",
+    "category": "Adjective",
+    "example": "Das Zimmer ist eng."
+  },
+  {
+    "id": 270,
+    "german": "hoch",
+    "turkish": "yüksek",
+    "pronunciation": "HOHKH",
+    "category": "Adjective",
+    "example": "Der Berg ist hoch."
+  },
+  {
+    "id": 271,
+    "german": "tief",
+    "turkish": "derin",
+    "pronunciation": "TEEF",
+    "category": "Adjective",
+    "example": "Das Loch ist tief."
+  },
+  {
+    "id": 272,
+    "german": "dick",
+    "turkish": "kalın",
+    "pronunciation": "DIK",
+    "category": "Adjective",
+    "example": "Das Buch ist dick."
+  },
+  {
+    "id": 273,
+    "german": "dünn",
+    "turkish": "ince",
+    "pronunciation": "DÜN",
+    "category": "Adjective",
+    "example": "Das Papier ist dünn."
+  },
+  {
+    "id": 274,
+    "german": "schwer",
+    "turkish": "ağır",
+    "pronunciation": "SHVAYR",
+    "category": "Adjective",
+    "example": "Der Koffer ist schwer."
+  },
+  {
+    "id": 275,
+    "german": "leicht",
+    "turkish": "hafif",
+    "pronunciation": "LYKHT",
+    "category": "Adjective",
+    "example": "Die Feder ist leicht."
+  },
+  {
+    "id": 276,
+    "german": "hart",
+    "turkish": "sert",
+    "pronunciation": "HART",
+    "category": "Adjective",
+    "example": "Der Stein ist hart."
+  },
+  {
+    "id": 277,
+    "german": "weich",
+    "turkish": "yumuşak",
+    "pronunciation": "VYKH",
+    "category": "Adjective",
+    "example": "Das Bett ist weich."
+  },
+  {
+    "id": 278,
+    "german": "fest",
+    "turkish": "sağlam",
+    "pronunciation": "FEST",
+    "category": "Adjective",
+    "example": "Der Tisch ist fest."
+  },
+  {
+    "id": 279,
+    "german": "bequem",
+    "turkish": "rahat",
+    "pronunciation": "beh-KVAYM",
+    "category": "Adjective",
+    "example": "Der Stuhl ist bequem."
+  },
+  {
+    "id": 280,
+    "german": "unbequem",
+    "turkish": "rahatsız",
+    "pronunciation": "OON-beh-KVAYM",
+    "category": "Adjective",
+    "example": "Der Stuhl ist unbequem."
+  },
+  {
+    "id": 281,
+    "german": "laut",
+    "turkish": "gürültülü",
+    "pronunciation": "LOWT",
+    "category": "Adjective",
+    "example": "Der Lärm ist laut."
+  },
+  {
+    "id": 282,
+    "german": "leise",
+    "turkish": "sessiz",
+    "pronunciation": "LY-zeh",
+    "category": "Adjective",
+    "example": "Das Buch ist leise."
+  },
+  {
+    "id": 283,
+    "german": "süß",
+    "turkish": "tatlı",
+    "pronunciation": "ZÜS",
+    "category": "Adjective",
+    "example": "Das Obst ist süß."
+  },
+  {
+    "id": 284,
+    "german": "sauer",
+    "turkish": "ekşi",
+    "pronunciation": "ZOW-er",
+    "category": "Adjective",
+    "example": "Das Getränk ist sauer."
+  },
+  {
+    "id": 285,
+    "german": "bitter",
+    "turkish": "acı",
+    "pronunciation": "BIT-ter",
+    "category": "Adjective",
+    "example": "Das Getränk ist bitter."
+  },
+  {
+    "id": 286,
+    "german": "salzig",
+    "turkish": "tuzlu",
+    "pronunciation": "ZAHL-tsikh",
+    "category": "Adjective",
+    "example": "Das Essen ist salzig."
+  },
+  {
+    "id": 287,
+    "german": "würzig",
+    "turkish": "baharatlı",
+    "pronunciation": "VÜR-tsikh",
+    "category": "Adjective",
+    "example": "Das Essen ist würzig."
+  },
+  {
+    "id": 288,
+    "german": "lecker",
+    "turkish": "lezzetli",
+    "pronunciation": "LEK-er",
+    "category": "Adjective",
+    "example": "Das Essen ist lecker."
+  },
+  {
+    "id": 289,
+    "german": "eklig",
+    "turkish": "iğrenç",
+    "pronunciation": "EK-likh",
+    "category": "Adjective",
+    "example": "Das Essen ist eklig."
+  },
+  {
+    "id": 290,
+    "german": "scharf",
+    "turkish": "keskin",
+    "pronunciation": "SHARF",
+    "category": "Adjective",
+    "example": "Das Messer ist scharf."
+  },
+  {
+    "id": 291,
+    "german": "stumpf",
+    "turkish": "körpe",
+    "pronunciation": "SHTUMPF",
+    "category": "Adjective",
+    "example": "Der Bleistift ist stumpf."
+  },
+  {
+    "id": 292,
+    "german": "sauber",
+    "turkish": "temiz",
+    "pronunciation": "ZOW-ber",
+    "category": "Adjective",
+    "example": "Das Zimmer ist sauber."
+  },
+  {
+    "id": 293,
+    "german": "schmutzig",
+    "turkish": "kirli",
+    "pronunciation": "SHMOO-tsikh",
+    "category": "Adjective",
+    "example": "Das Auto ist schmutzig."
+  },
+  {
+    "id": 294,
+    "german": "trocken",
+    "turkish": "kuru",
+    "pronunciation": "TROK-en",
+    "category": "Adjective",
+    "example": "Die Haut ist trocken."
+  },
+  {
+    "id": 295,
+    "german": "nass",
+    "turkish": "ıslak",
+    "pronunciation": "NAHS",
+    "category": "Adjective",
+    "example": "Das Haar ist nass."
+  },
+  {
+    "id": 296,
+    "german": "feucht",
+    "turkish": "nemli",
+    "pronunciation": "FOYKT",
+    "category": "Adjective",
+    "example": "Das Klima ist feucht."
+  },
+  {
+    "id": 297,
+    "german": "roh",
+    "turkish": "çiğ",
+    "pronunciation": "ROH",
+    "category": "Adjective",
+    "example": "Das Fleisch ist roh."
+  },
+  {
+    "id": 298,
+    "german": "gar",
+    "turkish": "pişmiş",
+    "pronunciation": "GAHR",
+    "category": "Adjective",
+    "example": "Das Fleisch ist gar."
+  },
+  {
+    "id": 299,
+    "german": "brennend",
+    "turkish": "yanan",
+    "pronunciation": "BREN-ent",
+    "category": "Adjective",
+    "example": "Das Feuer ist brennend."
+  },
+  {
+    "id": 300,
+    "german": "kühl",
+    "turkish": "serin",
+    "pronunciation": "KÜL",
+    "category": "Adjective",
+    "example": "Das Wetter ist kühl."
+  }
+]
